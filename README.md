@@ -1,6 +1,4 @@
 # tester
 react project
 
-commit a change to the readme
-
-I have made a change :)
+written by Quinn and ...
